@@ -13,7 +13,7 @@ to demonstrate my practical skills to employers.
 
 ## 🗂️ Projects
 
-### ✅ Project 3 — Customer Complaint Handling Process Improvement
+### ✅ Project 1 — Customer Complaint Handling Process Improvement
 > A full end-to-end business analysis of a broken customer
 > complaint process, from current state mapping to a complete
 > Business Requirements Document (BRD).
